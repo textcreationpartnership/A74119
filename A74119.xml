@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Prynnes letter to the Generall the third of January 1648. Demanding what kind of prisoner he is? And whose prisoner? with an appearance to his action of false imprisonment, which he resolves to prosecute against those who have imprisoned him, for the publick interst and freedom. of the members and subjects. / William Prynne.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74119</idno>
+            <idno type="STC">Thomason 669.f.13[65]</idno>
+            <idno type="STC">ESTC R16690</idno>
+            <idno type="EEBO-CITATION">50811834</idno>
+            <idno type="OCLC">ocm 50811834</idno>
+            <idno type="VID">162961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162961)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Prynnes letter to the Generall the third of January 1648. Demanding what kind of prisoner he is? And whose prisoner? with an appearance to his action of false imprisonment, which he resolves to prosecute against those who have imprisoned him, for the publick interst and freedom. of the members and subjects. / William Prynne.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: From my Prison at the Signe of the Kings-Head in the Strand. 3 January 1648 [i.e., 1649].</note>
+                  <note>The Generall = Baron Thomas Fairfax.</note>
+                  <note>With postscript, also by Prynne.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669 --  Imprisonment --  Early works to 1800.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162961:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>M<hi rend="sup">r.</hi> PRYNNES LETTER TO THE GENERALL<lb/>
+               <date>The third of Ianuary 1648.</date>
+            </head>
+            <argument>
+               <p>Demanding what kind of Priſoner He is? And whoſe Priſoner? with an appearance to his Action of falſe impriſonment, which he Reſolves to pro<g ref="char:EOLhyphen"/>ſecute againſt thoſe who have impriſoned him, for the publick intereſt and freedome. of the Members and Subjects.</p>
+            </argument>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT is now a full Moneths ſpace ſince I [with other Members of the Commons houſe] have been forcibly apprehended and kept priſoners by ſome of your Officers and Marſhall, againſt the Priviledges of Parliament, the Liberty of the Subject, the Lawes and Statutes of the Realme, and all rules of Juſtice, Conſcience &amp; Right reaſon; without the leaſt ſhaddow of Authority, or any cauſe at all yet made known to me, of which [were there any] neither God nor man, ever yet made your Lordſhip or your Officers Judges. I therefore deſire to know from your Lordſhip, what kind of priſoner I am? and whoſe? If a <hi>priſoner of peace:</hi> neither your lordſhip nor your Officers are any Iuſtices of peace, or Civill Magiſtrates in this place, to reſtrain me for any civill crime, were I guilty of it, much leſſe without proof or hearing, in caſe I were no Member: but being neither guilty nor accuſed of any ſuch crime, <hi>and a Member too,</hi> no Magiſtrate can, nor ought to impriſon me upon any pretext, at leaſt without the Houſes licenſe firſt obtained. Ifa priſoner of War, which I cannot probably be, being never in Arms, and apprehended neer the Commons houſe door, going peaceably and unarmed thither to diſcharge my duty; then you, and your Officers thereby acknowledge, <hi>that you have</hi> LEVYED WARRE AGAINST THE PAR<g ref="char:EOLhyphen"/>LIAMENT, and it's MEMBERS; and what a <hi>Capitall offence</hi> this is, and what a puniſhment it deſerves, I need not informe your Lordſhip, or your <hi>Coun<g ref="char:EOLhyphen"/>cell,</hi> who have for this very crime <hi>condemned and ſhot ſome to Death,</hi> As TRAYTORS: and demanded ſpeedy Juſtice and Execution for it upon THE KING HIMSELFE. I have but one thing more to trouble your Lordſhip with, and that is, to demand <hi>whoſe Priſoner I am?</hi> having yet ſeene no <hi>Warrant</hi> nor <hi>Or<g ref="char:EOLhyphen"/>der,</hi> from your ſelfe, or your Officers for my reſtraint, though I have oft demanded it of your <hi>Marſhall:</hi> If your <hi>Lordſhips</hi> Priſoner, there appearing yet no Legall Authority, cauſe or warrant for my reſtraint, I muſt then crave ſo much Juſtice from your Lordſhip (being but a <hi>Subiect,</hi> and not yet pa<g ref="char:EOLhyphen"/>ramount all Lawes) to order your <hi>Attorney</hi> to give an <hi>Appearance</hi> for you in the <hi>KINGS BENCH,</hi> the firſt returne of the next <hi>Tearme,</hi> to an action of <hi>falſe impriſonment,</hi> for this my uniuſt reſtraint; which I intend(by Gods aſſiſtance) effectually to proſecute. <hi>If your Officers Priſoner only and not yours,</hi> which I conceive, who yet abuſe your name and authority herein, though it be a rule in <hi>Law</hi> and <hi>Divinity</hi> too, <hi>Qui non prohibet malum quod poceſt, Inbet;</hi> yet I ſhall be ſo iuſt as to ſet the ſaddle upon the right horſe, and commence my action only againſt ſuch of your Officers, who have been moſt active in <hi>my impriſonment,</hi> for damage and reparations, which if there be any juſtice remaining under Heaven, I doubt not but I ſhall recover in Gods due time, in this publick cauſe which ſo highly concernes the <hi>Honour, Freedome, and Priviledgesof Parliament</hi> and <hi>Subiects Liberties;</hi> for defence and maintenance where<g ref="char:EOLhyphen"/>of, as I have hitherto ſpent my <hi>ſtrength,</hi> adventured my <hi>life, Body, liberty</hi> and <hi>Eſtate,</hi> ſo <hi>I</hi> ſhall now againe engage themall, and all the friends &amp; intereſts I have in Heaven and Earth, rather then they ſhall ſuffer the leaſt diminution, preiudice or Eclipſe by my <hi>ſtupid patience</hi> under this <hi>uniuſt captivity;</hi> though I can as willingly forgive and put up <hi>private Iniuryes,</hi> when the publike is not concerned, as any man. All which I thought meet to informe your Lord<g ref="char:EOLhyphen"/>ſhip off, whom I am heartily ſorry to ſee ſo much diſhonoured, abuſed, and miſled by raſh ill-adviſed Officers, and dangerous, deſtructive (&amp; I dare ſay <hi>Ieſuiticall) councells,</hi> to the Parliaments diſſipation, the Kingdomes prejudice, <hi>Irelands loſſe;</hi> moſt good mens and miniſters greif, your beſt freinds aſtoniſh<g ref="char:EOLhyphen"/>ment, your Enemies and the Papiſts triumph, our Religions ſcandall, and your own diſhonor; which I beſeech you as an <hi>Engliſhman,</hi> a Chriſtian, a <hi>profeſſor</hi> of <hi>piety</hi> and <hi>Religion,</hi> a Soldier, a <hi>Generall,</hi> to lay ſadly to your heart, as the earneſt requeſt of</p>
+            <closer>
+               <dateline>From my Priſon at the Signe of the <hi>Kings-Head</hi> in the <hi>Strand:</hi> 
+                  <date>3. <hi>Iauuary</hi> 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips faithfull Friend and Monitor <hi>WILLIAM PRYNNE.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>
+                     <g ref="char:leaf">❧</g> To the Honourable</hi> Thomas Lord Fairfax, <hi>GENERALL of the Preſent Army, theſe preſent.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="postscript">
+            <head>An Additionall POSTSCRIPT.</head>
+            <p>WE read <hi>Luke 3.14. That when the Soldiers demanded of Iohn Baptiſt ſaying;</hi> And what ſhall we do <hi>the ſaid unto them;</hi> DOE VIOLENCE TO NO MAN <hi>[or put no man in feares]</hi> NEITHER ACCVSE ANY FALSELY; <hi>and be content with your allowance;</hi> not impriſon depoſe, or murther Kings, pull downe Parliaments impriſon, violently ſhut out and drive away <hi>Parliament men,</hi> and then lay all <hi>falſe accuſations</hi> and ſcasdalls upon them, to colour your <hi>violence,</hi> ſubvert king<g ref="char:EOLhyphen"/>domes, alter <hi>States;</hi> break all bonds <hi>of Lawes, Oathes, covenants, obligations, engagements</hi> to <hi>God and men;</hi> uſurpe all civill, military and Eccleſiaſticall power, and the Kings Royall Pallaces into your own hands, as ſupream Lords and Kings; raiſe what new forces, and leavie what new Taxes you pleaſe, take up what <hi>Freequarters and houſes,</hi> ſeiz &amp; plunder what <hi>publik Treaſuries</hi> and monies you pleaſe, without Commiſſion or Authoritie, obey neither God nor Man, neither Parl. nor Magiſtrate; &amp; be content with nothing, but alter &amp; ſubvert al things. Theſe are St. <hi>Peters</hi> new <hi>Doctrines and Revelations,</hi> to our Officers and Soldiers now, &amp;thoſe Jeſuits who lurk amongſt them not Iohn the Bapt. whoſe <hi>Canonicall</hi> adviſe is now rejected as <hi>Apochryphall</hi> even among the <hi>army Sts.</hi> who prefer everie <hi>ignis fatuns,</hi> though from <hi>Doway</hi> or <hi>Rome</hi> it ſelf, before this burning &amp; ſhining old light, &amp; are guided only by a new minted law, of preten<g ref="char:EOLhyphen"/>ded <hi>providence,</hi> or <hi>neceſſity,</hi> of their owne forging, and not by the <hi>Revealed</hi> will and <hi>law of God,</hi> the <hi>ſacred light whereof</hi> their <hi>preſent works of Darkneſſe dare not approach, leaſt they ſhould be reproved and condemned by them.</hi> But ſome 43 actions of <hi>falſe impriſonment</hi> by the impriſoned, and 150. actions of the Caſe by the ſecluded Members, brought againſt theſe dominering lawleſſe Officers and Grandees of the Army, where in good Damages will be recovered, and ſome 12. Indictments of High Treaſon againſt them, for laying violent hands upon the Kings Perſon, &amp; the Members, &amp; levying Warre againſt the Parliament, will teach them more Obedience, Humility, and Modeſty, then either <hi>Iohn Baptist,</hi> Saint <hi>Paul,</hi> Saint <hi>Peter,</hi> or Saint <hi>Peters</hi> will do; and be like <hi>Giddeon</hi> thorns &amp; briars of diſcipline to theſe men of <hi>Succoth,</hi> with whom no fair means will prevail: who might have learned ſo much law and juſtice from an Heathen Souldier and Governour <hi>Feſtus</hi> Acts 25.27. <hi>it ſeemeth unto me</hi> UNREASONABLE to <hi>ſend,</hi> (much more to commit) <hi>a pri<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner, and not withall to ſignify</hi> THE CRIMES LAYD AGAINST HIM; And come ſhort of that ingenuity of the Heatheniſh CHEIFE Captain, who ſeized upon Paul, thereby to appeaſe the tumult at <hi>Hieruſalem,</hi> Acts 22, 27.29. who as ſoon as ever <hi>Paul</hi> told him, he was a <hi>Roman,</hi> and FREE BORN, then ſtraightway <hi>they departed from him who ſhould have examined him;</hi> and THE CHIEF CAPTAIN ALSO WAS AFFRAID, <hi>after he knew that he was a</hi> ROMAN, AND BECAUSE HE HAD BOVND HIM. And ſhould not the falſe impriſoning of a <hi>Parliament man,</hi> and <hi>Freeborne Engliſh</hi> Man, be as for<g ref="char:EOLhyphen"/>midable to our <hi>cheif Captain<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (being a chriſtian, I ſay ſworn and vowed to defend the Houſes Priviledges and Members perſons as the impriſonment of a <hi>Roman</hi> was to this Chief Captaine, and they as ingenious and juſt as he, who ſhall riſe up to Iudgement againſt them and condemn them at the laſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
